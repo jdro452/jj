@@ -4,7 +4,10 @@
 
 public class Main {
   public static void main(String[] args) {
-    System.out.println("Hello world JPWP2, hello hellod!");
+    
+    int liczba=10;
+    System.out.println(liczba);
+    
   }
 
   // @Test
